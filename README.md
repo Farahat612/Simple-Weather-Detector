@@ -7,7 +7,7 @@ A simple weather detector application developed using Python and Django.
 This project serves as a practice during a learning journey to develop a basic weather detector app. It allows users to search for weather information of a specific city and displays details such as temperature, pressure, and humidity.
 
 ## Project Demo
-                                             https://github.com/Farahat612/Simple-Weather-Detector/assets/67427124/2d416fe4-0a09-4e77-aa0b-ff9758445a1d
+https://github.com/Farahat612/Simple-Weather-Detector/assets/67427124/2d416fe4-0a09-4e77-aa0b-ff9758445a1d
 
 
 ## Project Structure
